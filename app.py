@@ -10,3 +10,6 @@ demo = gr.Interface(
 )
 
 demo.launch()
+
+# demo app for gradio
+# Name intesity generator, run file with 'python3 app.py' in terminal and connect to link
