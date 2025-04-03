@@ -1,3 +1,7 @@
+
+# demo app for gradio
+# Name intesity generator, run file with 'python3 app.py' in terminal and connect to link
+
 # import gradio as gr
 
 # def greet(name, intensity):
@@ -11,8 +15,6 @@
 
 # demo.launch()
 
-# demo app for gradio
-# Name intesity generator, run file with 'python3 app.py' in terminal and connect to link
 
 import gradio as gr
 from transformers import pipeline
